@@ -1,2 +1,2 @@
 # first-day-repo
-First day repo activity exercise
+First day repo exercise
